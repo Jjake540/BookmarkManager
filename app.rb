@@ -11,12 +11,8 @@ class BookmarkManager < Sinatra::Base
   end
 
   get '/bookmarks' do
-    bookmarks = [
-      "https://www.github.com",
-      "https://www.codewars.com",
-      "https://www.ukclimbing.com"
-      ]
-
+    @bookmarks = Bookmark.all
+    erb :index
   end
 
   run! if app_file == $0

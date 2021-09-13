@@ -10,6 +10,6 @@ feature '' do
     visit('/bookmarks')
     expect(page).to have_content "https://www.github.com"
     expect(page).to have_content "https://www.codewars.com"
-    expect(page).to have_content "https://www.ukclimbing.com"
+    expect(page).to have_content "https://www.ukclimbing.com" 
   end
 end
