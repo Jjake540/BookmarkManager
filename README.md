@@ -17,7 +17,7 @@ connect to the database in `psql` and run the SQL scripts in the `db/migrations`
 As a user
 I want to see websites that I like all in one place
 I want to see a list of bookmarked websites
-```
+
 As a time-pressed user
 So that I can save a website
 I would like to add the site's address and title to bookmark manager
