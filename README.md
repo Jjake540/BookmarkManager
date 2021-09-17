@@ -29,5 +29,4 @@ I want to add a bookmark to Bookmark Manager
 ```
 
 ## Domain Model
-
-![Domain Model bookmark manager](https://user-images.githubusercontent.com/77396594/133770770-cf58ba4e-b99d-426c-b89d-587728412f04.png)
+![Domain Model bookmark manager](https://user-images.githubusercontent.com/77396594/133771009-d84460a9-7522-436c-8b60-00d93b9a9887.png)
